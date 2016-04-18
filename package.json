@@ -1,0 +1,26 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "Start learning webpack from scratch",
+  "main": "bundle.js",
+  "dependencies": {
+    "moment": "^2.13.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adarshdch/webpack-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarshdch/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/adarshdch/webpack-starter"
+}
